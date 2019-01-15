@@ -1,1 +1,1 @@
-# react-rate-calculator
+# React rate calculator drill starting point
